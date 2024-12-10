@@ -8,23 +8,23 @@ const Banner = () => {
           <div className="space-y-4 md:text-left text-center">
             <h2 className="md:text-[50px] text-[20px] font-urbanist font-semibold text-black">
               Knowledge At{" "}
-              <span className="text-[#ec2b3b]">Your Fingertips</span>
+              <span className="text-[#ec2b3b]">Your Language </span>
             </h2>
             <p className="font-urbanist md:w-[700px] text-[15px] md:leading-[30px] font-semibold text-gray-500">
-              Enim nec consectetur condimentum fermentum. dolor sit amet
-              consectetur adipiscing elit pellentesque habitant. consectetur
-              purus ut fauscibus pulvinar elementum integer.
+              On the hunt for the best language learning blogs? There are tons
+              out there that can make you feel more connected to the language
+              learning community. They’re great for enhancing your studies.
             </p>
             <div className="flex md:justify-start justify-center items-center">
               <div className="space-y-4">
                 <span className="flex items-center gap-2 font-semibold text-[17px] text-gray-700">
                   {" "}
                   <FaRegHeart className="text-[#ec2b3b] text-3xl" /> Super easy
-                  to use{" "}
+                  to learn
                 </span>
                 <span className="flex items-center gap-2 font-semibold text-[17px] text-gray-700">
                   <LuMonitorDot className="text-[#ec2b3b] text-3xl" />
-                  SEO - optimized
+                  Optimized - Language
                 </span>
               </div>
             </div>
